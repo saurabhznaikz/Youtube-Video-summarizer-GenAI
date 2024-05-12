@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: video-summarizer
+Version: 0.0.2
+Author: saurabh naik
+Author-email: naiksaurabhd@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: google-generativeai

@@ -1,0 +1,7 @@
+README.md
+setup.py
+video_summarizer.egg-info/PKG-INFO
+video_summarizer.egg-info/SOURCES.txt
+video_summarizer.egg-info/dependency_links.txt
+video_summarizer.egg-info/requires.txt
+video_summarizer.egg-info/top_level.txt
