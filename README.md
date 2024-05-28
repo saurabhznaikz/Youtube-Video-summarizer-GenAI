@@ -1,5 +1,5 @@
-# Video question answering for youtube videos
-This system helps user to ask questions about youtube videos
+# youtube video summarizer
+This system helps user to summarize youtube videos
 
 ![Youtube video summarizer](https://github.com/saurabhznaikz/Video-transcriber/blob/main/Youtube%20video%20summarizer.gif)
 
