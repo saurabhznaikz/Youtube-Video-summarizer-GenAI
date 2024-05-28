@@ -1,7 +1,7 @@
 # Video question answering for youtube videos
 This system helps user to ask questions about youtube videos
 
-https://github.com/saurabhznaikz/Video-transcriber/blob/main/Youtube%20video%20summarizer.gif
+![Youtube video summarizer](https://github.com/saurabhznaikz/Video-transcriber/blob/main/Youtube%20video%20summarizer.gif)
 
 ## Installation
 Create virtual environment for python 3.10
